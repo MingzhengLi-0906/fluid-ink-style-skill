@@ -1,0 +1,42 @@
+{
+  "aspectRatio": "16:10",
+  "banks": [
+    {
+      "file": "attractor-bank-0.png",
+      "channels": [
+        {
+          "index": 0,
+          "id": "ink",
+          "color": "#20241f",
+          "subject": "primary dark structure",
+          "priority": 10,
+          "mergeable": false
+        },
+        {
+          "index": 1,
+          "id": "cinnabar",
+          "color": "#a9412e",
+          "subject": "vermilion focal subject",
+          "priority": 9,
+          "mergeable": false
+        },
+        {
+          "index": 2,
+          "id": "pine-green",
+          "color": "#526757",
+          "subject": "botanical secondary forms",
+          "priority": 6,
+          "mergeable": true
+        },
+        {
+          "index": 3,
+          "id": "blue-gray",
+          "color": "#7b8988",
+          "subject": "subordinate water or mist marks",
+          "priority": 3,
+          "mergeable": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Fluid Ink Figure"
+  short_description: "Create interactive Stable Fluids ink-wash figures"
+  default_prompt: "Use $fluid-ink-figure to turn my references or description into an interactive fluid ink-wash figure."
+policy:
+  allow_implicit_invocation: true
